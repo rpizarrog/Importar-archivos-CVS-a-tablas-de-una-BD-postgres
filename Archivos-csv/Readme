@@ -1,0 +1,4 @@
+Estos archivos con extensión y formato CSV, deben ser descargados a una ruta específica dentro de su computadora. 
+Toda vez dscargados, podrán ser importadados en el manejador de base de datos Postgres a la base de datos y a las 
+tablas correspondientes. Esta práctica sugerida para la clase de de Taller de base de datos.
+
